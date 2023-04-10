@@ -1,0 +1,24 @@
+.button-open{
+    margin: 16 0 0 16;
+  }
+  .div-button-open{
+    float: left;
+  }
+  .asso-status-active{
+      color: rgb(33, 180, 33);
+      padding-top: 7px;
+  }
+  .asso-status-table{
+      margin-top: 20px;
+      margin-bottom:-15px;
+  }
+  .spacing-left{
+    margin-left: 30px;
+  }
+  .spacing-right{
+      margin-right:3px;
+  }
+  .time-submit{
+      width:60px;
+      margin-right:3px;
+  }
